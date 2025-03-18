@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
