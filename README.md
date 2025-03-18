@@ -13,5 +13,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
