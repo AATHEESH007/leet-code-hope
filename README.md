@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
+## Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
