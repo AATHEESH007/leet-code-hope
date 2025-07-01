@@ -26,10 +26,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
+| [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 ## Stack
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
