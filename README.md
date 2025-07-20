@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
