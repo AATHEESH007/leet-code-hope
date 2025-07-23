@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3617-find-the-original-typed-string-i](https://github.com/AATHEESH007/leet-code-hope/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
