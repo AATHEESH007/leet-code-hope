@@ -20,6 +20,7 @@
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
+| [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
+| [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
