@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -26,6 +27,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3617-find-the-original-typed-string-i](https://github.com/AATHEESH007/leet-code-hope/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
