@@ -66,11 +66,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AATHEESH007/leet-code-hope/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AATHEESH007/leet-code-hope/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
