@@ -35,6 +35,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 ## Array
@@ -73,6 +74,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AATHEESH007/leet-code-hope/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
