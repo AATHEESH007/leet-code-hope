@@ -48,6 +48,7 @@
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
@@ -102,4 +103,20 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
