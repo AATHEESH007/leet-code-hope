@@ -50,17 +50,20 @@
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
