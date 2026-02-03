@@ -9,7 +9,7 @@ class Solution:
             return False
         while i + 1 < n and nums[i] > nums[i + 1]:
             i += 1
-        if i == 0 or i == n - 1:
+        if  i == n - 1:
             print("q")
             return False
         while i + 1 < n and nums[i] < nums[i+1]:
