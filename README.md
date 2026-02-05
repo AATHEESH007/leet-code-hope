@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
@@ -44,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
