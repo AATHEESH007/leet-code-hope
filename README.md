@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
@@ -50,6 +51,7 @@
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0136-single-number) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
