@@ -61,6 +61,7 @@
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 | [3637-trionic-array-i](https://github.com/AATHEESH007/leet-code-hope/tree/master/3637-trionic-array-i) |
 ## Stack
@@ -75,6 +76,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
