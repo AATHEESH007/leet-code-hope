@@ -151,8 +151,14 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
