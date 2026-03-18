@@ -34,6 +34,7 @@
 | [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3174-clear-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/3174-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/AATHEESH007/leet-code-hope/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3174-clear-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
+| [3174-clear-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
