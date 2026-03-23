@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AATHEESH007/leet-code-hope/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/AATHEESH007/leet-code-hope/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 ## Math
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AATHEESH007/leet-code-hope/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -178,6 +180,7 @@
 | [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AATHEESH007/leet-code-hope/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/AATHEESH007/leet-code-hope/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -188,6 +191,7 @@
 | [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AATHEESH007/leet-code-hope/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/AATHEESH007/leet-code-hope/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
