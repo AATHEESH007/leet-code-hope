@@ -80,6 +80,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
@@ -148,6 +149,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -177,6 +180,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AATHEESH007/leet-code-hope/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
