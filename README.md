@@ -147,12 +147,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 ## Union Find
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -179,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/AATHEESH007/leet-code-hope/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AATHEESH007/leet-code-hope/tree/main/0450-delete-node-in-a-bst/) | Medium |
