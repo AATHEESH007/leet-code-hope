@@ -60,6 +60,7 @@
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AATHEESH007/leet-code-hope/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AATHEESH007/leet-code-hope/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AATHEESH007/leet-code-hope/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/1929-concatenation-of-array) |
@@ -167,6 +169,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AATHEESH007/leet-code-hope/tree/main/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
