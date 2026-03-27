@@ -52,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0198-house-robber](https://github.com/AATHEESH007/leet-code-hope/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
@@ -69,6 +70,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/AATHEESH007/leet-code-hope/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/AATHEESH007/leet-code-hope/tree/master/0485-max-consecutive-ones) |
