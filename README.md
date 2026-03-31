@@ -49,6 +49,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/AATHEESH007/leet-code-hope/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -64,6 +65,7 @@
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AATHEESH007/leet-code-hope/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AATHEESH007/leet-code-hope/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/AATHEESH007/leet-code-hope/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AATHEESH007/leet-code-hope/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 ## Bit Manipulation
 |  |
