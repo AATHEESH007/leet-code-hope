@@ -41,6 +41,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/1668-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3174-clear-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/3174-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/AATHEESH007/leet-code-hope/tree/master/3617-find-the-original-typed-string-i) |
@@ -59,6 +60,7 @@
 | [0509-fibonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/1668-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/1668-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
