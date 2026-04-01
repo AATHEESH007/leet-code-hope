@@ -57,6 +57,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -221,4 +223,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AATHEESH007/leet-code-hope/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
