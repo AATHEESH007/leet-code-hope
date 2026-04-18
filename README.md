@@ -138,6 +138,7 @@
 | [0509-fibonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/1137-n-th-tribonacci-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AATHEESH007/leet-code-hope/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
