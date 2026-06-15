@@ -21,6 +21,7 @@
 | [0203-remove-linked-list-elements](https://github.com/AATHEESH007/leet-code-hope/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | [0141-linked-list-cycle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
 ## String
 | Problem Name | Difficulty |
