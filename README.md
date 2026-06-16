@@ -60,6 +60,7 @@
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/AATHEESH007/leet-code-hope/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AATHEESH007/leet-code-hope/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0338-counting-bits) |
@@ -82,6 +83,7 @@
 | [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AATHEESH007/leet-code-hope/tree/main/0198-house-robber/) | Medium |
@@ -162,6 +164,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AATHEESH007/leet-code-hope/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
