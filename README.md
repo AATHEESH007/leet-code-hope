@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/AATHEESH007/leet-code-hope/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AATHEESH007/leet-code-hope/tree/master/0997-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
 ## Linked List
@@ -36,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AATHEESH007/leet-code-hope/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AATHEESH007/leet-code-hope/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/2551-apply-operations-to-an-array) |
@@ -46,6 +48,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/1668-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AATHEESH007/leet-code-hope/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -170,6 +173,7 @@
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/AATHEESH007/leet-code-hope/tree/main/0860-lemonade-change/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AATHEESH007/leet-code-hope/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
