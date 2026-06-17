@@ -89,6 +89,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/AATHEESH007/leet-code-hope/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/AATHEESH007/leet-code-hope/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/AATHEESH007/leet-code-hope/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
@@ -172,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/AATHEESH007/leet-code-hope/tree/main/0135-candy/) | Hard |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/AATHEESH007/leet-code-hope/tree/main/0860-lemonade-change/) | Easy |
