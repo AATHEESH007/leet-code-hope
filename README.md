@@ -47,6 +47,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AATHEESH007/leet-code-hope/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/1668-maximum-repeating-substring) |
@@ -119,6 +120,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AATHEESH007/leet-code-hope/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AATHEESH007/leet-code-hope/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/AATHEESH007/leet-code-hope/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AATHEESH007/leet-code-hope/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/AATHEESH007/leet-code-hope/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/AATHEESH007/leet-code-hope/tree/main/0860-lemonade-change/) | Easy |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AATHEESH007/leet-code-hope/tree/main/0547-number-of-provinces/) | Medium |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AATHEESH007/leet-code-hope/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
