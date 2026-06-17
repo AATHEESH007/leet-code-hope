@@ -102,6 +102,7 @@
 | [0860-lemonade-change](https://github.com/AATHEESH007/leet-code-hope/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/AATHEESH007/leet-code-hope/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/AATHEESH007/leet-code-hope/tree/master/0997-find-the-town-judge) |
+| [1029-two-city-scheduling](https://github.com/AATHEESH007/leet-code-hope/tree/main/1029-two-city-scheduling/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AATHEESH007/leet-code-hope/tree/master/1470-shuffle-the-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AATHEESH007/leet-code-hope/tree/master/1552-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/AATHEESH007/leet-code-hope/tree/master/1813-maximum-erasure-value) |
@@ -164,6 +165,7 @@
 | [0015-3sum](https://github.com/AATHEESH007/leet-code-hope/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AATHEESH007/leet-code-hope/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AATHEESH007/leet-code-hope/tree/master/0268-missing-number) |
+| [1029-two-city-scheduling](https://github.com/AATHEESH007/leet-code-hope/tree/main/1029-two-city-scheduling/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AATHEESH007/leet-code-hope/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@
 | [0409-longest-palindrome](https://github.com/AATHEESH007/leet-code-hope/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/AATHEESH007/leet-code-hope/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/AATHEESH007/leet-code-hope/tree/main/0860-lemonade-change/) | Easy |
+| [1029-two-city-scheduling](https://github.com/AATHEESH007/leet-code-hope/tree/main/1029-two-city-scheduling/) | Medium |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AATHEESH007/leet-code-hope/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AATHEESH007/leet-code-hope/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AATHEESH007/leet-code-hope/tree/master/2410-maximum-matching-of-players-with-trainers) |
