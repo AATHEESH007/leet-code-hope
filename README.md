@@ -63,6 +63,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AATHEESH007/leet-code-hope/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AATHEESH007/leet-code-hope/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/AATHEESH007/leet-code-hope/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AATHEESH007/leet-code-hope/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AATHEESH007/leet-code-hope/tree/master/0118-pascals-triangle) |
@@ -156,6 +157,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AATHEESH007/leet-code-hope/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/AATHEESH007/leet-code-hope/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AATHEESH007/leet-code-hope/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AATHEESH007/leet-code-hope/tree/master/0070-climbing-stairs) |
@@ -305,4 +307,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AATHEESH007/leet-code-hope/tree/master/1189-maximum-number-of-balloons) |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AATHEESH007/leet-code-hope/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
