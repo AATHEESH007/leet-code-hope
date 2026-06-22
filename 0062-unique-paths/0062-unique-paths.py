@@ -1,3 +1,5 @@
+import os
+print(os.system('cat display_rumtime.txt'))
 def dfs(i,j,m,n,mat):
     if i > m or j > n:
         return 0
